@@ -1,5 +1,5 @@
 
-## ✅ Project Template: Educational Testing Website for SAT
+## ✅ Project : Adaptive Testing Website for SAT
 
 ### 📁 Project Structure
 
